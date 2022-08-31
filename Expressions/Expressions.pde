@@ -1,0 +1,11 @@
+println (3*4);
+println (40%8);
+println (4-3);
+println (12/6);
+println(40+5);
+println (2==5);
+println (1!=1);
+println(0<0);
+println(9>5 && 5<6);
+println (5>4);
+println (true && false || false == false);
