@@ -27,5 +27,5 @@ while (count < 100){
   }
   println();
   count = count + 1;
-  delay(1000);           //this block of code 
+  delay(1000);           //this block of code makes the animation get delayed so there's a smooth transition.
 }
